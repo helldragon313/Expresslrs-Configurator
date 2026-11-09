@@ -178,3 +178,6 @@ This repository serves as the official landing page for ExpressLRS Configurator.
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of ExpressLRS Configurator today!**
+
+---
+**Last updated:** 2026-11-09 02:10:10 UTC
