@@ -180,4 +180,4 @@ This repository serves as the official landing page for ExpressLRS Configurator.
 **Get the most recent version of ExpressLRS Configurator today!**
 
 ---
-**Last updated:** 2026-11-09 02:10:10 UTC
+**Last updated:** 2026-11-09 10:30:05 UTC
